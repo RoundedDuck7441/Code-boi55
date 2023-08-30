@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Code-boi55
+- 👋 Hi, I’m @RoundedDuck7441
 - 👀 I’m interested in Javascript and learning more skills
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on anything
